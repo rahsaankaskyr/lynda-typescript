@@ -1,0 +1,1 @@
+Typescript Essential training - lynda.com
